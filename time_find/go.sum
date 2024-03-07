@@ -4,3 +4,5 @@ github.com/accDB/funcs v0.0.0-20240307004646-401b32aee6ed h1:ycXLd+sYymgWwxbRtiP
 github.com/accDB/funcs v0.0.0-20240307004646-401b32aee6ed/go.mod h1:dVTqPsrU/kXlyj5j2qNqlQMFYjYRa7Aj1GNq01Rv+NU=
 github.com/accDB/funcs v0.0.0-20240307010329-fd4ed83d9996 h1:xeTIxG6Ygt4XwFCWJgtdGXLNv+3wW7Cl9/VWuZcCl5E=
 github.com/accDB/funcs v0.0.0-20240307010329-fd4ed83d9996/go.mod h1:egt6nugkicIFik+awYWNJ6H0SwTy3CKPj8TFjGXqhLs=
+github.com/accDB/funcs v0.0.0-20240307023638-c8d974b7b39c h1:3rr7UZEm9okZzlGRgasHSJEncaSsvbntOhSN4VJLHKg=
+github.com/accDB/funcs v0.0.0-20240307023638-c8d974b7b39c/go.mod h1:egt6nugkicIFik+awYWNJ6H0SwTy3CKPj8TFjGXqhLs=
